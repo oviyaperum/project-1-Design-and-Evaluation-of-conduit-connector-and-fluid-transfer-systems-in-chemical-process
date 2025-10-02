@@ -1,6 +1,6 @@
 # Design and Development of Conduit Connector Clips as an Innovative Alternative to Solid Connectors
 
-##  Report: OVIYA P (SAVEETHA ENGINEERING COLLEGE)
+## Report: OVIYA P (SAVEETHA ENGINEERING COLLEGE)
 
 This project explores the application of **Additive Manufacturing (AM)**, specifically **Fused Deposition Modeling (FDM)**, to design and evaluate a custom conduit connector for low-pressure fluid transfer systems in chemical process industries. This addresses the challenge of acquiring customized or small-batch components where traditional methods are economically unviable.
 
@@ -92,18 +92,18 @@ To extend the utility of the connector for industrial or more demanding lab envi
 | :--- | :--- |
 | `README.md` | This project overview and summary of findings. |
 | `documentation/` | Full **Mini Project Report** PDF. |
-| `cad/` | Includes the original CAD file and the **STL** file for direct printing. |
 | `printing_files/` | Configuration file detailing the optimized **FDM settings**. |
+| `cad/` | **Manufacturing Files (.STL, .STEP) for the DN32 Connector Components:** |
+| `cad/STL/` | - [`conduit_connector_dn32_clips_x1_v7.stl`](cad/STL/conduit_connector_dn32_clips_x1_v7.stl) |
+| | - [`conduit_connector_dn32_clip_locks_x1_v7.stl`](cad/STL/conduit_connector_dn32_clip_locks_x1_v7.stl) |
+| | - [`conduit_connector_dn32_align_protrusions_x2_v3.stl`](cad/STL/conduit_connector_dn32_align_protrusions_x2_v3.stl) |
+| `cad/STEP/` | - [`conduit_connector_dn32_clips_x1_v7.step`](cad/STEP/conduit_connector_dn32_clips_x1_v7.step) |
+| | - [`conduit_connector_dn32_clip_locks_x1_v7.step`](cad/STEP/conduit_connector_dn32_clip_locks_x1_v7.step) |
+| | - [`conduit_connector_dn32_align_protrusions_x2_v3.step`](cad/STEP/conduit_connector_dn32_align_protrusions_x2_v3.step) |
 
----
-
-## 2. `cad/Conduit_Connector_STL.stl` (Placeholder)
-
-**Action:** Upload your actual **`Conduit_Connector_STL.stl`** file here. This is the 3D printable object.
-
-## 3. `printing_files/FDM_PLA_Optimized_Settings.txt`
-
-```txt
+# FDM Optimized Slicing Parameters for PLA Connector
+# Software: Ultimaker Cura (or equivalent)
+# Reference: Project Report (Table 3.2)
 
 [Machine & Material]
 Material: Polylactic Acid (PLA), 1.75 mm diameter
