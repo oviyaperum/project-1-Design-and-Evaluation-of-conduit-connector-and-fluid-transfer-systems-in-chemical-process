@@ -1,6 +1,6 @@
 # Design and Development of Conduit Connector Clips as an Innovative Alternative to Solid Connectors
 
-## Report: OVIYA P (SAVEETHA ENGINEERING COLLEGE)
+## OVIYA P (212222210019)
 
 This project explores the application of **Additive Manufacturing (AM)**, specifically **Fused Deposition Modeling (FDM)**, to design and evaluate a custom conduit connector for low-pressure fluid transfer systems in chemical process industries. This addresses the challenge of acquiring customized or small-batch components where traditional methods are economically unviable.
 
