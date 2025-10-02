@@ -104,9 +104,6 @@ To extend the utility of the connector for industrial or more demanding lab envi
 ## 3. `printing_files/FDM_PLA_Optimized_Settings.txt`
 
 ```txt
-# FDM Optimized Slicing Parameters for PLA Connector
-# Software: Ultimaker Cura (or equivalent)
-# Reference: Project Report (Table 3.2)
 
 [Machine & Material]
 Material: Polylactic Acid (PLA), 1.75 mm diameter
