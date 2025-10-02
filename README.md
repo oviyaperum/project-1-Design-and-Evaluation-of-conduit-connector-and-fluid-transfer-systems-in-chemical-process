@@ -1,6 +1,6 @@
 # 3D-Printed Conduit Connector for Chemical Process Fluid Systems
 
-## Mini Project Report: OVIYA P (212222210019)
+##  Project Report: OVIYA P (212222210019)
 
 [cite_start]This project explores the application of **Additive Manufacturing (AM)**, specifically **Fused Deposition Modeling (FDM)** [cite: 88, 107][cite_start], to design and evaluate a custom conduit connector for low-pressure fluid transfer systems in chemical process industries[cite: 6]. [cite_start]This addresses the challenge of acquiring customized or small-batch components where traditional methods are economically unviable[cite: 93, 94].
 
@@ -136,7 +136,7 @@ Nozzle Diameter: 0.4 mm (Assumed standard)
 [cite_start]Sanding: Used 400-grit sandpaper for smoothness and tolerance matching [cite: 43, 121]
 MIT License
 
-Copyright (c) [Year] Oviya P
+Copyright (c) [2025] Oviya P
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
