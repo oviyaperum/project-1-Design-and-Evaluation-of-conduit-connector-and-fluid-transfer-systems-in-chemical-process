@@ -1,4 +1,4 @@
-# 3D-Printed Conduit Connector for Chemical Process Fluid Systems
+# Design and Development of Conduit Connector Clips as an Innovative Alternative to Solid Connectors
 
 ##  Report: OVIYA P (SAVEETHA ENGINEERING COLLEGE)
 
