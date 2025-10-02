@@ -136,7 +136,7 @@ Nozzle Diameter: 0.4 mm (Assumed standard)
 [cite_start]Sanding: Used 400-grit sandpaper for smoothness and tolerance matching [cite: 43, 121]
 MIT License
 
-Copyright (c) [2025] Oviya P
+###Copyright (c) [2025] Oviya P
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
